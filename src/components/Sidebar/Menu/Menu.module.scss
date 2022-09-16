@@ -28,6 +28,7 @@
         &.active {
           border-bottom: 1px solid $color-base;
           color: $color-base;
+          font-weight: bold;
         }
       }
     }
